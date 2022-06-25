@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-959113365</h3>
+			<h3>Contact @ +91-8296242028 ,+91-8838067389</h3>
 		</div>	
 	</div>
 
